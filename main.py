@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-#commentaire
-=======
-# 2eme commentaire 
->>>>>>> feature-a
+#edit just to cause a conflict
